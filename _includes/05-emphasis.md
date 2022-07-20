@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# New List of **Learning**:
+## ***Excellent skills***
+
+## Programming Languages
+- SQL
+- XML
+- HTML
+
+## Collaboration
+- GitHUb
+- Git
+- Collab
